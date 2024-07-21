@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alert dialog</string>
+    <string name="number">Number</string>
+    <string name="_0">0</string>
+    <string name="sum">Sum</string>
+    <string name="subtract">Subtract</string>
+    <string name="reset">Reset</string>
+    <string name="enter_the_number">Enter the number</string>
+</resources>
